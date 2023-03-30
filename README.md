@@ -16,7 +16,7 @@ The application provides the following Admin API endpoints:
 2. `GET /admin/posts`: Retrieves all posts data
 2. `GET /admin/users-with-posts`: Retrieves all users and their related posts
 2. `GET /admin/users/{userId}/posts`: Retrieves all related posts per userId
-5. a hiden API which is not listed here
+5. a bonus hidden API which is not listed here lol
 
 ## Test Cases
 
